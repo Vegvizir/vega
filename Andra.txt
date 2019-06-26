@@ -1,0 +1,2 @@
+print("Hello motherfucker")
+print("i am russian")
